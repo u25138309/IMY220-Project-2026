@@ -1,7 +1,7 @@
 function SignUp() {
     //popup, like login but with different words
     return (
-        <div>
+        <div className="form-popup">
             <h1>Sign Up</h1>
             <form>
                 <input type="text" placeholder="Username" required />

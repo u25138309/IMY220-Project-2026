@@ -1,5 +1,5 @@
 function Login() {
-    //popup
+    //popup, use localstorage
 
     return (
         <div>
