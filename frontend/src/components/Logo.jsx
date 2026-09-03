@@ -1,7 +1,8 @@
+import logo from "../assets/Logo.png";
 function Logo() {
     return (
         <div className="logo">
-            <img src="/logo.png" alt="Logo" />
+            <img src={logo} alt="Logo" />
         </div>
     );
 }
